@@ -1,0 +1,218 @@
+# 📝 Fieldwork
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Jan. 2026</div>
+<img src='images/500x300.png' alt="Luoyang & Zhengzhou" width="100%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Luoyang & Zhengzhou, Henan** 🌄
+
+**Sui-Tang Luoyang City & Physical Geography of Mount Song**
+
+- Conducted comprehensive fieldwork examining the urban structure of Sui-Tang period Luoyang City
+- Investigated the physical geography and geomorphological features of Mount Song (嵩山)
+- Analyzed the relationship between historical urban planning and natural landscape
+- Documented archaeological remains and spatial patterns of ancient capital cities
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Oct. 2025</div>
+<img src='images/500x300.png' alt="Jiading, Shanghai" width="100%" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Jiading, Shanghai** 🏛️
+
+**Urban Landscape and Morphology in Ming-Qing Dynasties**
+
+- Conducted detailed survey of Jiading's historical urban morphology
+- Analyzed urban landscape characteristics during Ming and Qing periods
+- Documented street patterns, architectural typologies, and spatial organization
+- Examined the evolution of urban form from traditional to modern times
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Oct. 2025</div>
+<img src='images/500x300.png' alt="Huzhou" width="100%" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Huzhou, Zhejiang** 🌊
+
+**Local Lakes and Ponds: Water Body Systems**
+
+- Centered fieldwork on the region's distinctive water body network
+- Investigated the historical development and management of lakes and ponds
+- Analyzed the ecological and agricultural significance of water systems
+- Documented traditional water management techniques and their contemporary relevance
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Aug. 2025</div>
+<img src='images/500x300.png' alt="Ningyang, Shandong" width="100%" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Ningyang County, Shandong** 🏡
+
+**Rural Earth Enclosures (土围, Tuwei)**
+
+- Focused on documenting Rural Earth Enclosures (Tuwei) in Ningyang region
+- Investigated the construction techniques and materials used in traditional earth enclosures
+- Analyzed their role in rural settlement patterns and agricultural practices
+- Studied the preservation status and cultural significance of these vernacular structures
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Jun. 2025</div>
+<img src='images/500x300.png' alt="Hangzhou" width="100%" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Hangzhou, Zhejiang** 📜
+
+**Historical Urban Geography**
+
+- Conducted extensive fieldwork on Hangzhou's historical urban geography
+- Analyzed the spatial evolution of the city across different historical periods
+- Documented the relationship between urban layout and West Lake culture
+- Investigated the impact of water systems on urban development and spatial organization
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Aug. 2024</div>
+<img src='images/500x300.png' alt="Anhua, Hunan" width="100%" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Anhua County, Hunan** 🍵
+
+**History of Modern Anhua Dark Tea**
+
+- Conducted focused fieldwork on the history and development of Anhua Dark Tea
+- Investigated tea production techniques and regional trade networks
+- Analyzed the cultural significance of dark tea in local economic development
+- Documented traditional tea processing methods and their historical evolution
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">May 2024</div>
+<img src='images/500x300.png' alt="Zhenjiang, Nanjing, Huizhou, Hangzhou" width="100%" style="background: linear-gradient(135deg, #3a6073 0%, #16222a 50%, #0f2027 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Zhenjiang, Nanjing, Huizhou & Hangzhou** 🗺️
+
+**Comprehensive Historical Geography Fieldwork**
+
+- Conducted extensive multi-site fieldwork across four historically significant regions
+- Compared urban development patterns and geographical features across Jiangnan
+- Documented regional variations in historical settlement and land use
+- Integrated findings to understand broader historical geography trends in eastern China
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Nov. 2023</div>
+<img src='images/500x300.png' alt="Taishun, Wenzhou" width="100%" style="background: linear-gradient(135deg, #134e5e 0%, #71b280 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Taishun County, Wenzhou** 🏘️
+
+**Ancient Village Preservation and Heritage Conservation**
+
+- Focused on documenting traditional village morphology and architectural heritage
+- Investigated preservation strategies for ancient villages in Taishun
+- Analyzed challenges in balancing conservation with rural development
+- Studied local governance models for cultural heritage protection
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Jul. 2020</div>
+<img src='images/500x300.png' alt="Hexi Corridor" width="100%" style="background: linear-gradient(135deg, #c94b4b 0%, #e8a94e 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Zhangye, Jiayuguan & Dunhuang** 🐫
+
+**Hexi Corridor: Silk Road Historical Sites**
+
+- Conducted comprehensive fieldwork covering key sites along the Hexi Corridor
+- Documented the spatial distribution and condition of Silk Road heritage sites
+- Investigated the historical geography of this critical trade route
+- Analyzed the relationship between oasis cities and desert environments
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Aug. 2019</div>
+<img src='images/500x300.png' alt="Qunjia Tibetan Township" width="100%" style="background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); padding: 20px; border-radius: 8px;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Qunjia Tibetan Township, Huangzhong District, Xining, Qinghai** 🏔️
+
+**Local Culture and Geography of Tibetan Communities**
+
+- Conducted one-month intensive fieldwork in a Tibetan ethnic township
+- Investigated the interaction between Tibetan culture and plateau geography
+- Documented traditional livelihoods, religious practices, and community organization
+- Analyzed socio-economic changes in ethnic minority regions
+
+</div>
+</div>
+
+# 📁 Archival Research
+
+- *Mar. 2025*, Nanjing — The Second Historical Archives of China (postal archives)
+- *Sep. 2024 – Jan. 2025*, Taipei — Academia Sinica, National Academy of History, National Central Library, National Palace Museum (Republican-era archives)
+- *Jul. 2024*, Jinan — Shandong Provincial Archives (modern economic archives of Liaocheng, cartographic materials)
+- *Dec. 2023*, Nanjing — The Second Historical Archives of China (postal archives)

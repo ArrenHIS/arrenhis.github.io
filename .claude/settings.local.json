@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r src=\"\"\"\" . --include=*.html --include=*.md --include=*.liquid)",
+      "Bash(grep -r src='''' . --include=*.html --include=*.md --include=*.liquid)"
+    ]
+  }
+}
