@@ -85,7 +85,7 @@
 </div>
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Jul. 2025</div>
@@ -102,7 +102,7 @@
 - International Conference Field Excursion: Participated in the post-conference field trip of the **International Congress of Historical Geography (ICHG2026)**, focusing on the geomorphological evolution of Chongming Island.
 - Physical Geography & Estuarine Studies: Conducted field investigations of river channels and waterways, tidal flats, and the Yangtze River Estuary, examining the historical formation and accretion processes of Chongming Island.
 
-</div>
+</div> -->
 
 <div class='paper-box'>
     <div class='paper-box-image'>
