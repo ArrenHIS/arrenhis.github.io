@@ -125,7 +125,7 @@
 
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Nov. 2024</div>
@@ -141,8 +141,9 @@
 
 - Urban Geography Fieldwork: Systematically investigated the urban landscape and morphology of Taichung City under the guidance of Professor Qilin Li from Tamkang University.
 - Investigated tea production techniques and regional trade networks Cultural & Industrial Site Visits: Conducted field surveys at Puli Winery, Sheshou Kiln (Snake Kiln), and Confucian Temple, gaining insights into local cultural heritage and traditional industries of Taiwan.
+</div>  -->
 
-</div>
+
 
 <div class='paper-box'>
     <div class='paper-box-image'>
