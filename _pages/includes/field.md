@@ -18,7 +18,7 @@
 - Investigated the physical geography and geomorphological features of Mount Song (嵩山)
 - Analyzed the relationship between historical urban planning and natural landscape
 - Documented archaeological remains and spatial patterns of ancient capital cities
-
+</div>
 </div>
 
 <div class='paper-box'>
