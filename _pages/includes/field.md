@@ -1,15 +1,11 @@
 # 📝 Fieldwork
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/arrenhis-icon.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-</div>
-</div> -->
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan. 2026</div><img src='images/fields/Luoyang-Zhengzhou.png' alt="Luoyang & Zhengzhou" width="100%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3px; border-radius: 8px;"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'><div>
+    <div class="badge">Jan. 2026</div>
+    <img src='images/fields/Luoyang-Zhengzhou.png' alt="Luoyang & Zhengzhou" width="100%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 8px;"></div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 **Luoyang & Zhengzhou, Henan** 🌄
@@ -27,7 +23,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Oct. 2025</div>
-                <img src='images/fields/Jiading.png' alt="Jiading, Shanghai" width="100%" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 3px; border-radius: 8px;">
+                <img src='images/fields/Jiading.png' alt="Jiading, Shanghai" width="100%" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +43,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Oct. 2025</div>
-                <img src='images/fields/Huzhou.png' alt="Huzhou" width="100%" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 3px; border-radius: 8px;">
+                <img src='images/fields/Huzhou.png' alt="Huzhou" width="100%" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +63,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Aug. 2025</div>
-            <img src='images/fields/Ningyang-Shandong.png' alt="Ningyang, Shandong" width="100%" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Ningyang-Shandong.png' alt="Ningyang, Shandong" width="100%" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +76,7 @@
 - Investigated the construction techniques and materials used in traditional earth enclosures
 - Analyzed their role in rural settlement patterns and agricultural practices
 - Studied the preservation status and cultural significance of these vernacular structures
-
+</div>
 </div>
 
 
@@ -88,7 +84,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Jul. 2025</div>
-            <img src='images/fields/Chongming-Island.png' alt="Chongming Island, Shanghai" width="100%" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Chongming-Island.png' alt="Chongming Island, Shanghai" width="100%" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +102,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Jun. 2025</div>
-            <img src='images/fields/Hangzhou.png' alt="Hangzhou" width="100%" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Hangzhou.png' alt="Hangzhou" width="100%" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -119,14 +115,14 @@
 - Analyzed the spatial evolution of the city across different historical periods
 - Documented the relationship between urban layout and West Lake culture
 - Investigated the impact of water systems on urban development and spatial organization
-
+</div>
 </div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Nov. 2024</div>
-            <img src='images/fields/Nantou-Taichung-TW.png' alt="Nantou & Taichung, Taiwan" width="100%" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Nantou-Taichung-TW.png' alt="Nantou & Taichung, Taiwan" width="100%" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -146,7 +142,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Aug. 2024</div>
-            <img src='images/fields/Anhua.png' alt="Anhua, Hunan" width="100%" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Anhua.png' alt="Anhua, Hunan" width="100%" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -159,14 +155,14 @@
 - Investigated tea production techniques and regional trade networks
 - Analyzed the cultural significance of dark tea in local economic development
 - Documented traditional tea processing methods and their historical evolution
-
+</div>
 </div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">May 2024</div>
-            <img src='images/fields/Zhenjiang.png' alt="Zhenjiang, Nanjing, Huizhou, Hangzhou" width="100%" style="background: linear-gradient(135deg, #3a6073 0%, #16222a 50%, #0f2027 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Zhenjiang.png' alt="Zhenjiang, Nanjing, Huizhou, Hangzhou" width="100%" style="background: linear-gradient(135deg, #3a6073 0%, #16222a 50%, #0f2027 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -186,7 +182,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Nov. 2023</div>
-            <img src='images/fields/Taishun-Wenzhou.png' alt="Taishun, Wenzhou" width="100%" style="background: linear-gradient(135deg, #134e5e 0%, #71b280 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Taishun-Wenzhou.png' alt="Taishun, Wenzhou" width="100%" style="background: linear-gradient(135deg, #134e5e 0%, #71b280 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -206,7 +202,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Jul. 2020</div>
-            <img src='images/fields/Zhangye-Jiayuguan-Dunhuang.png' alt="Hexi Corridor" width="100%" style="background: linear-gradient(135deg, #c94b4b 0%, #e8a94e 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Zhangye-Jiayuguan-Dunhuang.png' alt="Hexi Corridor" width="100%" style="background: linear-gradient(135deg, #c94b4b 0%, #e8a94e 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -226,7 +222,7 @@
     <div class='paper-box-image'>
         <div>
             <div class="badge">Aug. 2019</div>
-            <img src='images/fields/Qunjia-Tibetan.png' alt="Qunjia Tibetan Township" width="100%" style="background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); padding: 3px; border-radius: 8px;">
+            <img src='images/fields/Qunjia-Tibetan.png' alt="Qunjia Tibetan Township" width="100%" style="background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); padding: 10px; border-radius: 8px;">
         </div>
     </div>
 <div class='paper-box-text' markdown="1">
