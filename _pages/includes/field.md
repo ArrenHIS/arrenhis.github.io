@@ -2,6 +2,35 @@
 
 
 <div class='paper-box'>
+    <div class='paper-box-image'>
+        <div class="field-carousel" data-carousel role="region" aria-roledescription="carousel" aria-label="Wuling fieldwork photos" tabindex="0">
+            <div class="badge">Jul. – Aug. 2026</div>
+            <img class="field-carousel__slide" data-carousel-slide src='images/fields/Wuling1.jpg' alt="Wuling fieldwork photo 1" role="group" aria-roledescription="slide" aria-label="1 of 2">
+            <img class="field-carousel__slide" data-carousel-slide src='images/fields/Wuling2.jpg' alt="Wuling fieldwork photo 2" role="group" aria-roledescription="slide" aria-label="2 of 2" hidden>
+            <button class="field-carousel__button field-carousel__button--previous" type="button" data-carousel-previous aria-label="Show previous photo" title="Previous photo">
+                <i class="fas fa-chevron-left" aria-hidden="true"></i>
+            </button>
+            <button class="field-carousel__button field-carousel__button--next" type="button" data-carousel-next aria-label="Show next photo" title="Next photo">
+                <i class="fas fa-chevron-right" aria-hidden="true"></i>
+            </button>
+            <div class="field-carousel__status" data-carousel-status aria-live="polite">1 / 2</div>
+        </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+
+**Wuling, Guangdong & Guangxi & Hunan & Jiangxi** 🌄
+
+**Sui-Tang Transportation & Ancient Routes of the Wuling (Nanling Mountains)**
+
+- Conducted a 11-day fieldwork expedition covering ten prefecture-level cities across four provinces
+- The Wuling (Five Ridges) refers to the Dayu, Qitian, Mengzhu, Dupang and Yuecheng ridges — five ranges stretching between Hunan, Jiangxi, Guangxi and Guangdong that form the core of the Nanling Mountains
+- Focused on the transportation and communication routes across the Wuling during the Sui-Tang period
+- Traveled among the five ridges, cross-referencing on-site findings with historical records
+- Surveyed and catalogued ancient passes, post stations and bridges along the historical routes
+</div>
+</div>
+
+<div class='paper-box'>
     <div class='paper-box-image'><div>
     <div class="badge">Jan. 2026</div>
     <img src='images/fields/Luoyang-Zhengzhou.png' alt="Luoyang & Zhengzhou" width="100%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 8px;"></div>

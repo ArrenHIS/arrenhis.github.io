@@ -1,8 +1,9 @@
 
 # 📖 Educations
-- *2023.09 - 2026.06 (Expected)*, Master's candidate, Institute of Chinese Historical Geography, Fudan University.
+- *2026.9 - &nbsp;&nbsp; &nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;, Doctor of Philosophy in History Candidate, Institute of Chinese Historical Geography, Fudan University.
+- *2023.09 - 2026.06*, Master of Arts in History, Institute of Chinese Historical Geography, Fudan University.
 - *2024.09 - 2025.01*, Visiting Student, Department of History, Tamkang University, Taiwan.
-- *2018.09 - 2022.06*, Bachelor of History, School of History and Culture, Lanzhou University.
+- *2018.09 - 2022.06*, Bachelor of Arts in History, School of History and Culture, Lanzhou University.
 
 # 🎓 Academic Service
 - *Mar. 2025 – Present*, **Editorial Assistant** \\
